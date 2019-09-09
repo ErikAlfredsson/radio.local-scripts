@@ -15,3 +15,4 @@ This repository contains the scripts used on the same machine to:
 
 - nodejs
 - crontab
+- sox
